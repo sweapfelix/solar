@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+* {
+    font-family: 'Cinzel', serif;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+
+/*.prominens img{
+    height: 4rem;
+    position:absolute;
+    left:500px;
+    top:200px
+}*/
+
+.universite img {
+    height: 7rem;
+    position: absolute;
+    left: 1000px;
+    top: 175px
+}
+
+html {
+    font-size: 40px;
+}
+
+.sea {
+    font-size: 23px;
+}
+
+.buttons {
+    font-size: 40px;
+    margin: 40px 40px;
+}
+
+/*.fa-solidfa-dragonfa-fadefa-2xl{
+    font-size: 40px;
+    margin: 40px 40px;
+}
+
+.navbar{
+    p{text-decoration:italic}
+}*/
